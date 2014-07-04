@@ -9,7 +9,7 @@ var centerBox = function() {
 $(document).ready(function() {
 
   // Fit the background image.
-	$(".background").imgLiquid();
+  $(".background").imgLiquid();
 
   // Center the info box.
   centerBox();
